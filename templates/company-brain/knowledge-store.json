@@ -1,0 +1,4 @@
+{
+  "_comment": "The list of knowledge sources this agent is allowed to read. Seeded empty — agent-onboarding fills in one entry per source from the interview. Each source: type (Notion | Google Drive | Slack | Web Search | ...), location (the specific wiki/folder/channel, not a whole Drive), and covers (a short description of what canonical content lives there, used to route a question to the right source first). Never ship one company's sources in this file.",
+  "sources": []
+}
